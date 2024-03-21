@@ -1,6 +1,6 @@
 import React from 'react'
 import './header.css'
-import logo from '../images/Yara_logo.svg.png'
+import logo from '../images/Yara_logo.svg.png';
 
 function Header(){
     return (
